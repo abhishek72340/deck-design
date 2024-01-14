@@ -1,7 +1,7 @@
 // import { useState, useEffect } from "react";
 import { useTeam } from "../context/team-context";
 import "../styles/team-up/team-up.scss";
-import frame from "../assets/react.png";
+import frame from "../assets/react.svg";
 import Circle from "../components/circle/Circle";
 const TeamUp = () => {
   const {

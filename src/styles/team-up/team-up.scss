@@ -189,16 +189,16 @@ $color: white;
 
 // *****************************************************************************
 .image_frame {
-  width: 8vw;
+  width: 5vw;
   position: absolute;
   margin: 15% 0 0 18%;
   animation: team 2s ease-in-out;
 }
 
 .image_frame_animated {
-  width: 8vw;
+  width: 5vw;
   position: absolute;
-  margin: 15% 0 0 20%;
+  margin: 15% 0 0 19%;
   transition: 0.5s ease-in-out;
   // transform: translateX(-60px) !important;
   position: fixed;
